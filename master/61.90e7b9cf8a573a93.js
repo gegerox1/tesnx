@@ -1,0 +1,1 @@
+(self.webpackChunkmaster=self.webpackChunkmaster||[]).push([[61],{61:(e,r,t)=>{t.r(r);var s=t(619),a=t(29),o=t(504),c=t(94);a.s(document.getElementById("root")).render((0,c.jsx)(s.StrictMode,{children:(0,c.jsx)(o.Z,{})}))},29:(e,r,t)=>{var s=t(135);r.s=s.createRoot,s.hydrateRoot}}]);
